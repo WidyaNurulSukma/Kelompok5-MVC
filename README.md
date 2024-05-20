@@ -4,7 +4,7 @@ Proyek PHP MVC adalah aplikasi yang memisahkan logika bisnis, antarmuka pengguna
 
 ## Struktur direktori
 
-- app/ 
+- **app/** 
   - **App/** - Berisi konfigurasi utama atau komponen inti aplikasi.
   - Controller/ -> Berisi file controller yang menangani logika aplikasi dan interaksi dengan model serta view.
   - Core/ -> Berisi file inti atau framework dasar aplikasi, seperti base classes atau libraries.
