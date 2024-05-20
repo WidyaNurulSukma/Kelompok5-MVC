@@ -19,7 +19,7 @@ Proyek PHP MVC adalah aplikasi yang memisahkan logika bisnis, antarmuka pengguna
   - `index.php` -> File utama yang digunakan sebagai titik masuk untuk aplikasi web berbasis PHP.
 
 ## Persyaratan
-- PHP >= 8.0
+- PHP >= 7.2
 - MySQL
 
 ## Installation
