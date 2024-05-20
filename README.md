@@ -2,6 +2,17 @@
 
 Proyek PHP MVC adalah aplikasi yang memisahkan logika bisnis, antarmuka pengguna, dan kontrol aliran data menggunakan tiga komponen utama: Model, View, dan Controller.
 
+# Repositori Proyek PHP MVC
+Repositori ini berisi dua proyek PHP yang telah difaktorkan ulang untuk mengimplementasikan pola desain MVC (Model-View-Controller). Proyek aslinya berasal dari PHPGurukul dan adalah:
+1. [Park Ticketing Management System](https://phpgurukul.com/park-ticketing-management-system-using-php-and-mysql/)
+2. [Online Security Guards Hiring System](https://phpgurukul.com/online-security-guards-hiring-system-using-php-and-mysql/) 
+   
+## Deskripsi Proyek
+### Park Ticketing Management System
+Aplikasi web untuk mengelola tiket, melacak tiket berdasarkan id tiket, dan memantau jumlah tiket yang dihasilkan dalam periode tertentu. Proyek asli dibangun menggunakan PHP asli dan MySQL.
+### Online Security Guards Hiring System
+Aplikasi berbasis web yang dirancang untuk mengelola daftar penjaga keamanan, memperkerjakan permintaan pesanan, dan melacak permintaan berdasarkan no pesanan, nama juga nomor ponsel. Awalnya dibuat dengan PHP asli dan MySQL.
+
 ## Struktur direktori
 - `app/` 
   - `App/` -> Berisi konfigurasi utama atau komponen inti aplikasi.
