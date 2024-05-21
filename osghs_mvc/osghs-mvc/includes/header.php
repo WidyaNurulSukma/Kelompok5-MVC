@@ -11,7 +11,7 @@
           <li><a href="index.php">Hiring Form</a></li>
           <li><a href="search-request.php">Request Status</a>
                      </li>
-          <li><a href="admin/login.php">Admin</a></li>
+          <li><a href="osghs_mvc\admin\login.php">Admin</a></li>
         </ul>
       </div>
     </div>
